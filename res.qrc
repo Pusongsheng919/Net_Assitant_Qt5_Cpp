@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>NetAss_Icons/disconnect.png</file>
+        <file>NetAss_Icons/mainicon.png</file>
+        <file>NetAss_Icons/mainicon_2.png</file>
+        <file>NetAss_Icons/successful.png</file>
+        <file>NetAss_Icons/version.png</file>
+        <file>NetAss_Icons/winicon.png</file>
+    </qresource>
+</RCC>
